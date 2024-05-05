@@ -5,6 +5,7 @@ metadata:
   title: Jaeger Windows
   description: Docker image for Jaeger on Windows
   tags:
+    - monitoring
     - docker
     - windows
 spec:
