@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: jaeger-windows
+  title: Jaeger Windows
+  description: Docker image for Jaeger on Windows
+  tags:
+    - docker
+    - windows
+spec:
+  type: library
+  lifecycle: experimental
+  owner: johnnyhuy
